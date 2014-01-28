@@ -1,0 +1,20 @@
+这是一个实验性文档，为了测试git的功能，已经验证git的可用性。
+
+我们会创建以下目录，并假设会有如下文件
+src
+	code1.c
+	code2.php
+	code3.htm
+	code4.ini
+design
+	coding_rule.txt
+	main_concept.txt
+	database.txt
+	ui.txt
+	char.txt
+doc
+	how_to_set_up_git.txt
+plugin
+	plugin1.jar
+	plugin2.jar
+	
